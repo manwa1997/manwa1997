@@ -3,11 +3,11 @@
 # Hi there 👋
 I'm Manwa Rabaya, Back-end Developer, Graduated from an Arab American University. I'm looking for more knowledge to develope myself to become profiecnal in Back-end
 ### Here is What I'm Working on!
--🔭 I’m currently internship in Kiitos-Technologies
--🌱  I’m currently learning Node.js, Sequalize.js and Typescript
--💬 Ask me about Anything
--📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/manwa-rabaya/)
--😄Pronouns: she/her
+-🔭 I’m currently internship in Kiitos-Technologies.
+-🌱  I’m currently learning Node.js, Sequalize.js and Typescript.
+-💬 Ask me about Anything.
+-📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/manwa-rabaya/).
+-😄Pronouns: she/her.
 ### 🔨 Languages and Tools:
 <img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
 <img align="left" alt="TypeScript" height ="42px" src="./typescript.svg">
