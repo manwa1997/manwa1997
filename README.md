@@ -1,4 +1,4 @@
-<img src="/move.gif" alt="a day of manwa rabaya"/ width="200px" height ="200px">
+<img src="/move.gif" width="200px" height ="200px"  alt="a day of manwa rabaya"/>
 
 # Hi there 👋
 
